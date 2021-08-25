@@ -47,5 +47,3 @@ dotnet aspnet-codegenerator controller -name CadidatosController -m Candidato -d
 ```
 # Api_JobNet
 
-# Api_JobNet
-
